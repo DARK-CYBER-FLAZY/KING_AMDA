@@ -29,13 +29,13 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = true 
+global.VOICE_REPLY = false 
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
 //👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
-global.AUTO_REACT = true 
+global.AUTO_REACT = false  
 //👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = false
 //👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
@@ -81,9 +81,9 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94767533889'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝚁𝙴𝙰𝙳𝙴𝚃 𝙱𝚈 𝙺𝙸𝙽𝙶 𝙰𝙼𝙳𝙰 𝙼𝙳 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃 𝙱𝚈 𝙺𝙸𝙽𝙶 𝙰𝙼𝙳𝙰 𝙼𝙳 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐊𝐈𝐍𝐆 𝐀𝐌𝐃𝐀 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐊𝐈𝐍𝐆 𝐀𝐌𝐃𝐀 𝚳𝐃 1 𝛁' 
 //👇 Your name
 global.ownernma =  'MR FLAZY' 
 //👇 Sticker Author Name
@@ -189,7 +189,7 @@ global.APIKeys = {
 }
 
 //global.alivelogo = `https://telegra.ph/file/8ef3c4919ef603e7bad48.jpg`
-global.imgalive = fs.readFileSync('./https://telegra.ph/file/8ef3c4919ef603e7bad48.jpg')
+global.imgalive = fs.readFileSync('./')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
