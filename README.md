@@ -24,7 +24,7 @@
 # 
 
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/DARK-CYBER-FLAZY/KING_AMDA.git)
-<b>Version -> 3.9.6</b>
+<b>Version -> 1.0.0</b>
 # 
 king amda whatsapp bot is,
 
