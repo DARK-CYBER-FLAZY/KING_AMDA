@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<u>♥️ 𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬 𝗖𝗬𝗕𝗘𝗥 𝗞𝗜𝗡𝗚 𝗧𝗘𝗔𝗠[𝗙𝗟𝗔𝗭𝗬_𝗦𝗜𝗧𝗛𝗨_𝗣𝗔𝗡𝗗𝗔_𝗣𝗔𝗪𝗔𝗡_𝗗𝗘𝗫𝗧𝗘𝗥_𝗛𝗔𝗦𝗦𝗔_𝗖𝗛𝗔𝗡𝗨]♥️</u>
+<u>♥️ 𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬 𝗖𝗬𝗕𝗘𝗥 𝗞𝗜𝗡𝗚 𝗧𝗘𝗔𝗠[𝗙𝗟𝗔𝗭𝗬_𝗦𝗜𝗧𝗛𝗨_𝗣𝗔𝗡𝗗𝗔_𝗣𝗔𝗪𝗔𝗡_𝗗𝗘𝗫𝗧𝗘𝗥_𝗛𝗔𝗦𝗦𝗔_𝗖𝗛𝗔𝗡𝗨_𝗦𝗔𝗩𝗜𝗬𝗔]♥️</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/a31851257858c7602a567.jpg" width="300" height="300"/>
@@ -38,7 +38,7 @@ king amda whatsapp bot is,
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@savigaming2009/KING-AMDA-BOT-QR?v=1)
 
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 # 
@@ -139,6 +139,6 @@ THANAKS FOR USNING KING AMDA 💃💖
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [BONIKKI 💖]() for Voice ,[PAWAN_HASSA_SITHU](https://www.youtube.com/@cyber_flazy) , [FLAZY_DEXTER](https://github.com/flazy123) and [PANDA_CHANU]() thanks for helps 💖
+ [BONIKKI 💖]() for Voice ,[PAWAN_HASSA_SITHU](https://www.youtube.com/@cyber_flazy) , [FLAZY_DEXTER](https://github.com/flazy123) and [PANDA_CHANU_SAVIYA]() thanks for helps 💖
 
  ## [ WHATSAPP NUMBER ] (https://wa.me//94767533889)
