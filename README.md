@@ -34,7 +34,7 @@ king amda whatsapp bot is,
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA.git"><img align="center" src="https://telegra.ph/file/a31851257858c7602a567.jpg" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA.git"><img align="center" src="https://telegra.ph/file/a31851257858c7602a567.jpg" alt="Fork and deploy" height="100" width="155" /></a>
 
 # 
 
