@@ -1,9 +1,9 @@
 
 <p align="center"> 
-<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ʀᴜᴋꜱʜᴀɴ♥️</u>
+<u>♥️ 𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬 𝗖𝗬𝗕𝗘𝗥 𝗞𝗜𝗡𝗚 𝗧𝗘𝗔𝗠[𝗙𝗟𝗔𝗭𝗬_𝗦𝗜𝗧𝗛𝗨_𝗣𝗔𝗡𝗗𝗔_𝗣𝗔𝗪𝗔𝗡_𝗗𝗘𝗫𝗧𝗘𝗥_𝗛𝗔𝗦𝗦𝗔_𝗖𝗛𝗔𝗡𝗨]♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/a7f91b1613367ec5d12cf.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/a31851257858c7602a567.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=KING+AMDA+WHATSAPP+BOT" alt="">
@@ -16,9 +16,9 @@
 <a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARK-CYBER-FLAZY/KING_AMDA?color=white&style=flat-square"></a>
 <a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARK-CYBER-FLAZY/KING_AMDA?color=yellow&style=flat-square"></a>
 <a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DARK-CYBER-FLAZY/KING_AMDA?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA/"><img title="Size" src="https://telegra.ph/file/a7f91b1613367ec5d12cf.jpg"></a>
+<a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA/"><img title="Size" src="https://telegra.ph/file/a31851257858c7602a567.jpg"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DARK-CYBER-FLAZY/KING_AMDA/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/flazy123/King_Amda/graphs/commit-activity"><img height="20" src="https://telegra.ph/file/a7f91b1613367ec5d12cf.jpg"></a>&nbsp;&nbsp;
+<a href="https://github.com/flazy123/King_Amda/graphs/commit-activity"><img height="20" src="https://telegra.ph/file/a31851257858c7602a567.jpg"></a>&nbsp;&nbsp;
 </p>
 
 # 
@@ -28,13 +28,13 @@
 # 
 king amda whatsapp bot is,
 
-      kinh amda whatsapp bot is an easy to use whatsapp robot.   |  king amdaa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      king amda whatsapp bot is an easy to use whatsapp robot.   |  king amdaa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA.git"><img align="center" src="https://telegra.ph/file/a7f91b1613367ec5d12cf.jpg" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/DARK-CYBER-FLAZY/KING_AMDA.git"><img align="center" src="https://telegra.ph/file/a31851257858c7602a567.jpg" alt="Fork and deploy" height="35" width="155" /></a>
 
 # 
 
@@ -66,7 +66,7 @@ king amda whatsapp bot is,
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://telegra.ph/file/a7f91b1613367ec5d12cf.jpg"><img align="center" src="https://telegra.ph/file/a7f91b1613367ec5d12cf.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://telegra.ph/file/a31851257858c7602a567.jpg"><img align="center" src="https://telegra.ph/file/a31851257858c7602a567.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * Deploy on Railway Video ⇓
  <p align="left">
@@ -139,6 +139,6 @@ THANAKS FOR USNING KING AMDA 💃💖
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [hassa_pawan 💖]() for Voice ,[pawan_hassa_sithu](https://www.youtube.com/@cyber_flazy) , [darkalpha](https://github.com/flazy123) and [isuru]() thanks for helps 💖
+ [BONIKKI 💖]() for Voice ,[PAWAN_HASSA_SITHU](https://www.youtube.com/@cyber_flazy) , [FLAZY_DEXTER](https://github.com/flazy123) and [PANDA_CHANU]() thanks for helps 💖
 
  ## [ WHATSAPP NUMBER ] (https://wa.me//94767533889)
