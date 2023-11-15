@@ -189,7 +189,7 @@ global.APIKeys = {
 }
 
 //global.alivelogo = `https://telegra.ph/file/8ef3c4919ef603e7bad48.jpg`
-global.imgalive = fs.readFileSync('./')
+global.imgalive = fs.readFileSync('./https://telegra.ph/file/a31851257858c7602a567.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
