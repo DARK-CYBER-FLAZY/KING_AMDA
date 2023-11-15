@@ -3,7 +3,7 @@
 <u>♥️ 𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬 𝗖𝗬𝗕𝗘𝗥 𝗞𝗜𝗡𝗚 𝗧𝗘𝗔𝗠[𝗙𝗟𝗔𝗭𝗬_𝗦𝗜𝗧𝗛𝗨_𝗣𝗔𝗡𝗗𝗔_𝗣𝗔𝗪𝗔𝗡_𝗗𝗘𝗫𝗧𝗘𝗥_𝗛𝗔𝗦𝗦𝗔_𝗖𝗛𝗔𝗡𝗨_𝗦𝗔𝗩𝗜𝗬𝗔]♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/7f52f86f75ec2646532ba.mp4" width="300" height="300"/>
+<img src="https://telegra.ph/file/a7f91b1613367ec5d12cf.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=KING+AMDA+WHATSAPP+BOT" alt="">
