@@ -53,7 +53,7 @@ king amda whatsapp bot is,
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://https://github.com/DARK-CYBER-FLAZY/KING_AMDA)
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DARK-CYBER-FLAZY/KING_AMDA)
 
 [`Deploy on Replit`](https://replit.com)
 
