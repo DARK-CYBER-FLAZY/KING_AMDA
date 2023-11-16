@@ -67,7 +67,7 @@ click the below button to deploy on heroku!
 
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDARK-CYBER-FLAZY%2FKING_AMDA%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2FDARK-CYBER-FLAZY%2FKING_AMDA">
+    <a href="https://heroku.com/deploy?template=https://github.com/DARK-CYBER-FLAZY/KING_AMDA">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
