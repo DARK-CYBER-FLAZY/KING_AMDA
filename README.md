@@ -2,24 +2,19 @@
 
  <p align="center">  
   <a href="https://www.youtube.com/@cyber_flazy">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/8ef3c4919ef603e7bad48.jpg">
+    <img alt="secktor docs" height="300" src="">
     <h1 align="center">KING-AMDA-MD-V1</h1>
-  </a>
-</p>  
+  </a
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/L6Rw4onJlfBJGprvSQh9I2" target="_blank">
-    <img alt="whatsapp" src="https://telegra.ph/file/8ef3c4919ef603e7bad48.jpg" />
+  <a aria-label="Join our chats" hretpt.wapp.com/L6Rw4onJlfBJGprvSQh9I2" target="_blank">
+    <img alt="whatsapp" src="" />
   </a>
 <a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/J6C3xxf5VAp0FW0KidBTwf](https://wa.me/94710109956?text=.menu)" target="_blank">
-    <img alt="whatsapp" src="https://telegra.ph/file/8ef3c4919ef603e7bad48.jpg" />
+    <img alt="whatsapp" src="" />
   </a>
-  
-</p>
-    
-    
- ![forks](https://telegra.ph/file/8ef3c4919ef603e7bad48.jpg?label=Forks&style=social)
 
-![stars](https://telegra.ph/file/8ef3c4919ef603e7bad48.jpg?style=social)
+ ![forks](?label=Forks&style=social)
+![stars](?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/CYBER-THUSHAN/count.svg) 
@@ -62,12 +57,10 @@
 ## `⨷ Deploy To Heroku 👇` 
 
 ```bash
-click the below button to deploy on heroku!
-```
-
+click the below button to deploy heroku
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/DARK-CYBER-FLAZY/KING_AMDA">
+    <a href="https://heroku.com/deploy?template=https://github.com/CYBER-THUSHAN/SHENU-QUEEN-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
