@@ -54,9 +54,9 @@
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MULITE+DIVICE+WHATSAPP+BOT+NEW+2023" alt="Typing SVG" /></a>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY;CYBER+THUSHAN+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY;CYBER+FLAZY+" alt="Typing SVG" /></a>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MY+NUMBER;710109956" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MY+NUMBER;767533889" alt="Typing SVG" /></a>
 
 
 ## `⨷ Deploy To Heroku 👇` 
